@@ -29,3 +29,5 @@
 
 ![image](https://user-images.githubusercontent.com/63281304/112740704-d1656a80-8fb1-11eb-9bf8-302ca44ab397.png)
 
+## Day 30 特徵選擇
+1.  特徵需要適當的增加與減少，以提升精確度並減少計算時間
