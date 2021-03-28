@@ -19,8 +19,13 @@
 
 ![image](https://ai100-fileentity.cupoy.com/ml100/dailytask/1586225294165/1594007553801)
 
-## Day 28 特徵組合 數值與數值組合
+## Day 28 特徵組合-數值與數值組合
 特徵工程的核心概念 : 領域知識
 -   機器學習的關鍵在特徵工程
 -   特徵工程的關鍵在領域知識
 -   最有效提升模型預測力
+
+## Day 29 特徵組合-類別與數值組合
+
+![image](https://user-images.githubusercontent.com/63281304/112740704-d1656a80-8fb1-11eb-9bf8-302ca44ab397.png)
+
